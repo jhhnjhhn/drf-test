@@ -1,2 +1,2 @@
 # drf-test
-django-rest-framework test.
+It's django-rest-framework test.
